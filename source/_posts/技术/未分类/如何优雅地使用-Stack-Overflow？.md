@@ -1,7 +1,9 @@
 ---
 title: 如何优雅地使用 Stack Overflow？
-date: 2021-04-29 14:50:48
 categories:
+  - 技术
+  - 未分类
+date: 2021-04-29 14:50:48
 tags:
 ---
 

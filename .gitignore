@@ -4,5 +4,4 @@ db.json
 *.log
 public/
 .deploy*/
-themes/
 .idea/

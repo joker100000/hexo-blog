@@ -1,11 +1,11 @@
 ---
 title: git常见问题记录
-date: 2021-04-26 15:17:03
 categories:
-- 技术
-- git
+  - 技术
+  - Git
 tags:
-- git
+  - git
+date: 2021-04-26 15:17:03
 ---
 
 ### 1、在 .gitignore 文件中增加忽略文件不生效的解决办法

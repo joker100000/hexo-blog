@@ -1,11 +1,11 @@
 ---
 title: Hexo站点建设之—如何将github站点布置到本地
-date: 2021-04-26 16:49:59
 categories:
-- 技术
-- hexo
+  - 技术
+  - Hexo
 tags:
-- hexo
+  - hexo
+date: 2021-04-26 16:49:59
 ---
 
 ## 1、拷贝相关文件
